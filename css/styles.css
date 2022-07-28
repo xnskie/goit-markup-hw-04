@@ -207,9 +207,7 @@ nav {
     flex-wrap: wrap;
     flex-direction: column;
     align-content: center;
-    height: 600px;
-    width: 1600px;
-    align-items: center;
+    align-items: center; 
 }
 
 .hero-title {
